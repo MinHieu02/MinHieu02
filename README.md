@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-- ✍ I'm a middle software developer at [MinHieu02]
+- ✍ I'm a Senior developer software developer at [MinHieu02]
 <br />
 
 ## 📫 How to reach me:
