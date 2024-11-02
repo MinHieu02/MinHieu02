@@ -44,7 +44,3 @@
     </td>
   </tr>
 </table>
-
-# Certificates:
-<img src="[https://img.icons8.com/color/48/000000/microsoft-sql-server.png](https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-1/317751276_468888335361499_205227903962457856_n.jpg?stp=dst-jpg_s160x160&_nc_cat=110&ccb=1-7&_nc_sid=f4b9fd&_nc_eui2=AeHSkH5qy-nCA8Cuz8mK1ZnPC6ZozQzE0vMLpmjNDMTS8zXa5gJ21THxRtHe6RhFP4AnbXgU5uL9jDOOjnJXgOei&_nc_ohc=VFPD_nOONtcQ7kNvgEi_vds&_nc_zt=24&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=AgOpTfRpgxsJJjvTdthlXis&oh=00_AYCV9f-ml7u5Bys8Phg4ASOAvFVbgvuLYci9Ea6AA-B4rg&oe=672C375D)"/>R2S ACADEMY - Java Back-End Developer
-VINALINK MEDIA - Google ADS
